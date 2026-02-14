@@ -1,16 +1,57 @@
-# AliAlmahmoud
-# Hi I'm Ali
-Front-End Developer focused on building clean, responsive, and user-friendly web interfaces.
+# 👋 Hi, I'm Ali Almahmoud
 
-## Skills 
-- HTML - 90%
-- CSS - 85%
-- Responsive Design - 80%
-- UI/UX Basics - 75%
-- JavaScript - Basic UI interactions
+A passionate front-end developer focused on building clean, modern, and responsive websites.  
+I enjoy turning ideas into real, functional, and visually appealing web experiences.
 
-## Projects
-Check out my repositories below to see my work
+---
 
-## Contact
-Email : ali.almahmoud.work@gmail.com
+## 🚀 Portfolio
+Check out my main portfolio website:
+🔗 **https://ali-almahmoud.github.io/Portfolio/**
+
+---
+
+## 💼 Featured Projects
+
+### 🏡 Premium Real Estate Landing Page  
+A modern landing page for a luxury real estate brand.  
+🔗 Live Demo: https://ali-almahmoud.github.io/premium-real-estate-landing-page/
+
+---
+
+### 📊 Admin Dashboard UI  
+A clean and responsive admin dashboard interface.  
+🔗 Live Demo: https://ali-almahmoud.github.io/admin-dashboard-uI/
+
+---
+
+### 👤 Personal Brand Portfolio Website  
+A personal portfolio layout to showcase skills and projects.  
+🔗 Live Demo: https://ali-almahmoud.github.io/personal-band-portfolio-webstie/
+
+---
+
+### 🍽️ Modern Restaurant Website  
+A stylish and modern restaurant landing page.  
+🔗 Live Demo: https://ali-almahmoud.github.io/modern-restaurant-website/
+
+---
+
+### 🎨 Creative Agency Website  
+A clean and modern landing page for a creative digital agency.  
+🔗 Live Demo: https://ali-almahmoud.github.io/creative-agency-website/
+
+---
+
+## 🛠️ Skills
+- HTML  
+- CSS  
+- Responsive Web Design  
+- UI/UX Layouts  
+
+---
+
+## 📫 Contact
+Feel free to reach out if you'd like to collaborate or have any questions.
+
+
