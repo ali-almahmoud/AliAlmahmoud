@@ -1,17 +1,27 @@
-# 👋 Hi, I'm Ali Almahmoud
+<h1 align="center">👋 Hi, I'm Ali Almahmoud</h1>
 
-A passionate front-end developer focused on building clean, modern, and responsive websites.  
-I enjoy turning ideas into real, functional, and visually appealing web experiences.
+<p align="center">
+Front-End Developer specializing in building clean, modern, and responsive web interfaces.
+<br>
+Turning ideas into real, functional, and visually appealing websites.
+</p>
 
 ---
 
-## 🚀 Portfolio
-Check out my main portfolio website:
+## 🚀 Portfolio  
 🔗 **https://ali-almahmoud.github.io/Portfolio/**
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📦 Featured Projects
 
 ### 🏡 Premium Real Estate Landing Page  
 A modern landing page for a luxury real estate brand.  
@@ -21,37 +31,36 @@ A modern landing page for a luxury real estate brand.
 
 ### 📊 Admin Dashboard UI  
 A clean and responsive admin dashboard interface.  
-🔗 Live Demo: https://ali-almahmoud.github.io/admin-dashboard-uI/
+🔗 Live Demo: https://ali-almahmoud.github.io/admin-dashboard-ui/
 
 ---
 
 ### 👤 Personal Brand Portfolio Website  
 A personal portfolio layout to showcase skills and projects.  
-🔗 Live Demo: https://ali-almahmoud.github.io/personal-band-portfolio-webstie/
+🔗 Live Demo: https://ali-almahmmoud.github.io/personal-band-portfolio-webstie/
 
 ---
 
 ### 🍽️ Modern Restaurant Website  
 A stylish and modern restaurant landing page.  
-🔗 Live Demo: https://ali-almahmoud.github.io/modern-restaurant-website/
+🔗 Live Demo: https://ali-almahmmoud.github.io/modern-restaurant-website/
 
 ---
 
 ### 🎨 Creative Agency Website  
 A clean and modern landing page for a creative digital agency.  
-🔗 Live Demo: https://ali-almahmoud.github.io/creative-agency-website/
+🔗 Live Demo: https://ali-almahmmoud.github.io/creative-agency-website/
 
 ---
 
-## 🛠️ Skills
-- HTML  
-- CSS  
-- Responsive Web Design  
-- UI/UX Layouts  
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-almahmoud&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-almahmoud&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📫 Contact
-Feel free to reach out if you'd like to collaborate or have any questions.
-
-
+## 📫 Contact  
+Feel free to reach out for collaboration or questions.
